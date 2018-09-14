@@ -51,7 +51,7 @@ This implementation has the following features:
 Clone the repo:
 
 ```
-git clone https://github.com/roytseng-tw/mask-rcnn.pytorch.git
+git clone https://github.com/roytseng-tw/Detectron.pytorch.git
 ```
 
 ### Requirements
@@ -70,7 +70,7 @@ Tested under python3.
   - packaging
   - [pycocotools](https://github.com/cocodataset/cocoapi)  — for COCO dataset, also available from pip.
   - tensorboardX  — for logging the losses in Tensorboard
-- An NVIDAI GPU and CUDA 8.0 or higher. Some operations only have gpu implementation.
+- An NVIDIA GPU and CUDA 8.0 or higher. Some operations only have gpu implementation.
 - **NOTICE**: different versions of Pytorch package have different memory usages.
 
 ### Compilation
